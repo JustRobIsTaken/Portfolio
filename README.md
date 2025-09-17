@@ -44,6 +44,6 @@ Ein hybrider Design-Science-Ansatz zur Dublettenerkennung in CRM-Systemen**
 ---
 
 ## 📫 Kontakt
-[LinkedIn](https://www.linkedin.com/in/deinprofil) · [E-Mail](mailto:dein@mail.com) *(WIP)*
+[LinkedIn](https://www.linkedin.com/in/roberto-bruno-7a5807330/) · [E-Mail](mailto:brunoroberto@outlook.de)
 
 ---
