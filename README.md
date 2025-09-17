@@ -1,4 +1,4 @@
-# 👋 Hallo, ich bin Rob!
+# 👋 Hallo, ich bin Roberto!
 💡 Es fasziniert mich, komplexe Daten in verständliche Insights zu verwandeln und datengetriebene Entscheidungen zu ermöglichen.
 ---
 🎓 **Business Intelligence & Analytics (M.Sc.)** (kurz vor Abschluss)  
@@ -37,10 +37,30 @@ Ein hybrider Design-Science-Ansatz zur Dublettenerkennung in CRM-Systemen**
   - Aufbau von SQL- und dbt-Modellen für BI- und CRM-Analysen  
   - Entwicklung interaktiver Dashboards und Optimierung von Datenpipelines  
   - Zusammenarbeit mit Stakeholdern und Durchführung von Ergebnis-Workshops  
+
 - **Software Test Automation & QA Engineer in der Software-/Gesundheitsbranche**  
   - Entwicklung automatisierter Tests → höhere Qualität & kürzere Release-Zyklen  
   - Refactoring bestehender Frameworks → Stabilität & Wartbarkeit verbessert  
   - Aufbau einer **CI/CD-Pipeline** mit TeamCity & GitLab  
+
+---
+## 🛠 Technologien
+**Data & Analytics Tools**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=sqlite&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**(Web-)Development**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logo)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 
 ---
 
