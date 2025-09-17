@@ -1,8 +1,8 @@
 # 👋 Hallo, ich bin Rob!
 
-🎓 **Business Intelligence & Analytics (M.Sc.)** – kurz vor Abschluss  
+🎓 **Business Intelligence & Analytics (M.Sc.)** (kurz vor Abschluss)  
 💡 Erfahrung mit **Data Engineering**, **Analytics** und **CRM-Systemen**, starkes Interesse an **Data Governance** und **Finance-Analytics**  
-🌟 Engagiert und praxisorientiert – von Datenmodellierung bis Visualisierung, mit langfristiger **Aspiration zum Data Consultant**
+🌟 Engagiert und praxisorientiert entlang der gesamten Pipeline: von Datenmodellierung bis Visualisierung, mit langfristiger **Aspiration zum Data Consultant**
 
 ---
 
@@ -27,7 +27,7 @@ Ein hybrider Design-Science-Ansatz zur Dublettenerkennung in CRM-Systemen**
   - 💬 **Qualitativ:** Stakeholder-Interviews zur Erklärbarkeit  
   - 📑 **Governance-Fit:** Auditierbarkeit & Compliance  
 
-*(Dokumentation folgt nach Abschluss des Projekts)*
+*(Dokumentation folgt in anonymisierter Form nach Abschluss des Projekts)*
 
 ---
 
