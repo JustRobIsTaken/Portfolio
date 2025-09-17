@@ -51,10 +51,10 @@ Ein hybrider Design-Science-Ansatz zur Dublettenerkennung in CRM-Systemen**
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=sqlite&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 **(Web-)Development**
 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
