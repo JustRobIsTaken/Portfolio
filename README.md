@@ -1,5 +1,6 @@
 # 👋 Hallo, ich bin Rob!
-
+💡 Es fasziniert mich, komplexe Daten in verständliche Insights zu verwandeln und datengetriebene Entscheidungen zu ermöglichen.
+---
 🎓 **Business Intelligence & Analytics (M.Sc.)** (kurz vor Abschluss)  
 💡 Erfahrung mit **Data Engineering**, **Analytics** und **CRM-Systemen**, starkes Interesse an **Data Governance** und **Finance-Analytics**  
 🌟 Engagiert und praxisorientiert entlang der gesamten Pipeline: von Datenmodellierung bis Visualisierung, mit langfristiger **Aspiration zum Data Consultant**
