@@ -10,13 +10,13 @@
 ## 🚀 Projekte
 
 ### 📈 ETF Booster *(privates Projekt)*  
-- Proprietärer Algorithmus zur antizyklischen ETF-Allokation  
+- Proprietärer Algorithmus zur antizyklischen und steueroptimierten ETF-Allokation  
 - 📊 Outperformte den MSCI World um **+4 %** in den ersten 3 Monaten *(Performance kann schwanken)*  
 - 📲 Telegram-Alerts für Valley-/MDD-Empfehlungen  
 - 🔗 [Dokumentation](https://github.com/JustRobIsTaken/etf-booster-docs) *(Code proprietär · WIP)*  
 
 ### 🎓 Masterarbeit  
-**Erklärbares Maschinelles Lernen (xAI) zur Unterstützung von Data-Governance-Zielen:  
+**Erklärbares maschinelles Lernen (xAI) zur Unterstützung von Data-Governance-Zielen:  
 Ein hybrider Design-Science-Ansatz zur Dublettenerkennung in CRM-Systemen**
 
 - Entwicklung eines modularen Prototyps zur Dublettenerkennung  
