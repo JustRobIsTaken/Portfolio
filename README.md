@@ -19,9 +19,10 @@
 **Erklärbares maschinelles Lernen (xAI) zur Unterstützung von Data-Governance-Zielen:  
 Ein hybrider Design-Science-Ansatz zur Dublettenerkennung in CRM-Systemen**
 
-- Entwicklung eines modularen Prototyps zur Dublettenerkennung  
+- Entwicklung eines **modularen Prototyps** zur Dublettenerkennung  
 - Kombination aus **regelbasierten Features**, **Random Forest** und **TreeSHAP** (xAI-Komponente)  
-- Integration in **Data-Governance-Prozesse** (Strategisch, Organisatorisch, Operativ)  
+- Integration in **Data-Governance-Prozesse** (Strategisch, Organisatorisch, Technisch-operativ)
+- Dadurch sollen **Data-Governance-Risiken** reduziert und **Compliance-Anforderungen** leichter eingehalten werden  
 - In Kooperation mit einem Unternehmen, Datensatz anonymisiert  
 - Evaluation:  
   - 📊 **Quantitativ:** Precision, Recall, PR-AUC  
